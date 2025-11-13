@@ -1,0 +1,98 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< edu.touro.mcon152:maven-demo >--------------------
+[INFO] Building maven-demo 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/3.2.0/maven-clean-plugin-3.2.0.pom
+Progress (1): 781 BProgress (1): 1.8 kBProgress (1): 4.2 kBProgress (1): 5.3 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/3.2.0/maven-clean-plugin-3.2.0.pom (5.3 kB at 12 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/35/maven-plugins-35.pom
+Progress (1): 758 BProgress (1): 1.8 kBProgress (1): 3.7 kBProgress (1): 6.5 kBProgress (1): 8.3 kBProgress (1): 9.9 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-plugins/35/maven-plugins-35.pom (9.9 kB at 113 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/35/maven-parent-35.pom
+Progress (1): 732 BProgress (1): 1.9 kBProgress (1): 3.7 kBProgress (1): 8.2 kBProgress (1): 13 kB Progress (1): 16 kBProgress (1): 20 kBProgress (1): 25 kBProgress (1): 26 kBProgress (1): 28 kBProgress (1): 31 kBProgress (1): 33 kBProgress (1): 37 kBProgress (1): 39 kBProgress (1): 42 kBProgress (1): 45 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/35/maven-parent-35.pom (45 kB at 686 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/apache/25/apache-25.pom
+Progress (1): 742 BProgress (1): 2.1 kBProgress (1): 3.2 kBProgress (1): 5.1 kBProgress (1): 10.0 kBProgress (1): 13 kB  Progress (1): 17 kBProgress (1): 19 kBProgress (1): 21 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/apache/25/apache-25.pom (21 kB at 331 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/3.2.0/maven-clean-plugin-3.2.0.jar
+Progress (1): 0.9/36 kBProgress (1): 2.3/36 kBProgress (1): 3.6/36 kBProgress (1): 5.0/36 kBProgress (1): 6.4/36 kBProgress (1): 7.7/36 kBProgress (1): 9.1/36 kBProgress (1): 10/36 kB Progress (1): 12/36 kBProgress (1): 13/36 kBProgress (1): 15/36 kBProgress (1): 16/36 kBProgress (1): 17/36 kBProgress (1): 19/36 kBProgress (1): 20/36 kBProgress (1): 21/36 kBProgress (1): 23/36 kBProgress (1): 24/36 kBProgress (1): 26/36 kBProgress (1): 27/36 kBProgress (1): 31/36 kBProgress (1): 35/36 kBProgress (1): 36 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-clean-plugin/3.2.0/maven-clean-plugin-3.2.0.jar (36 kB at 549 kB/s)
+[INFO] 
+[INFO] --- clean:3.2.0:clean (default-clean) @ maven-demo ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.3.4/maven-shared-utils-3.3.4.pom
+Progress (1): 788 BProgress (1): 2.3 kBProgress (1): 4.3 kBProgress (1): 5.8 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.3.4/maven-shared-utils-3.3.4.pom (5.8 kB at 47 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/34/maven-shared-components-34.pom
+Progress (1): 781 BProgress (1): 2.3 kBProgress (1): 4.6 kBProgress (1): 5.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-components/34/maven-shared-components-34.pom (5.1 kB at 64 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/34/maven-parent-34.pom
+Progress (1): 725 BProgress (1): 1.9 kBProgress (1): 5.4 kBProgress (1): 10.0 kBProgress (1): 14 kB  Progress (1): 19 kBProgress (1): 23 kBProgress (1): 26 kBProgress (1): 26 kBProgress (1): 28 kBProgress (1): 31 kBProgress (1): 35 kBProgress (1): 38 kBProgress (1): 42 kBProgress (1): 43 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-parent/34/maven-parent-34.pom (43 kB at 739 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.pom
+Progress (1): 780 BProgress (1): 2.1 kBProgress (1): 5.3 kBProgress (1): 7.5 kBProgress (1): 9.5 kBProgress (1): 12 kB Progress (1): 14 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.pom (14 kB at 366 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom
+Progress (1): 718 BProgress (1): 1.9 kBProgress (1): 3.1 kBProgress (1): 4.5 kBProgress (1): 5.9 kBProgress (1): 7.5 kBProgress (1): 11 kB Progress (1): 14 kBProgress (1): 14 kBProgress (1): 18 kBProgress (1): 22 kBProgress (1): 25 kBProgress (1): 27 kBProgress (1): 29 kBProgress (1): 32 kBProgress (1): 36 kBProgress (1): 37 kBProgress (1): 40 kBProgress (1): 44 kBProgress (1): 48 kBProgress (1): 53 kBProgress (1): 55 kBProgress (1): 58 kBProgress (1): 60 kBProgress (1): 62 kBProgress (1): 63 kBProgress (1): 65 kBProgress (1): 67 kBProgress (1): 68 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/42/commons-parent-42.pom (68 kB at 860 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/apache/18/apache-18.pom
+Progress (1): 755 BProgress (1): 2.1 kBProgress (1): 4.0 kBProgress (1): 8.1 kBProgress (1): 12 kB Progress (1): 15 kBProgress (1): 16 kB                   Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/apache/18/apache-18.pom (16 kB at 320 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.3.4/maven-shared-utils-3.3.4.jar
+Progress (1): 3.8/153 kBProgress (1): 8.0/153 kBProgress (1): 12/153 kB Progress (1): 16/153 kBProgress (1): 21/153 kBProgress (1): 25/153 kBProgress (1): 29/153 kBProgress (1): 33/153 kBProgress (1): 38/153 kBProgress (1): 42/153 kBProgress (1): 46/153 kBProgress (1): 50/153 kBProgress (1): 55/153 kBProgress (1): 57/153 kBProgress (1): 62/153 kBProgress (1): 66/153 kBProgress (1): 70/153 kBProgress (1): 86/153 kBProgress (1): 103/153 kBProgress (1): 119/153 kBProgress (1): 136/153 kBProgress (1): 152/153 kBProgress (1): 153 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/maven-shared-utils/3.3.4/maven-shared-utils-3.3.4.jar (153 kB at 2.9 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.jar
+Progress (1): 7.7/215 kBProgress (1): 16/215 kB Progress (1): 32/215 kBProgress (1): 49/215 kBProgress (1): 65/215 kBProgress (1): 81/215 kBProgress (1): 98/215 kBProgress (1): 114/215 kBProgress (1): 118/215 kBProgress (1): 135/215 kBProgress (1): 151/215 kBProgress (1): 168/215 kBProgress (1): 184/215 kBProgress (1): 200/215 kBProgress (1): 215 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/commons-io/commons-io/2.6/commons-io-2.6.jar (215 kB at 2.9 MB/s)
+[INFO] Deleting /home/student/repos/primer/exercises/maven-project/target
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ maven-demo ---
+[INFO] skip non existing resourceDirectory /home/student/repos/primer/exercises/maven-project/src/main/resources
+[INFO] 
+[INFO] --- compiler:3.13.0:compile (default-compile) @ maven-demo ---
+[INFO] Recompiling the module because of changed source code.
+[INFO] Compiling 1 source file with javac [debug target 21] to target/classes
+[INFO] -------------------------------------------------------------
+[ERROR] COMPILATION ERROR : 
+[INFO] -------------------------------------------------------------
+[ERROR] /home/student/repos/primer/exercises/maven-project/src/main/java/edu/touro/mcon152/App.java:[3,32] package org.apache.commons.lang3 does not exist
+[ERROR] /home/student/repos/primer/exercises/maven-project/src/main/java/edu/touro/mcon152/App.java:[4,23] package com.google.gson does not exist
+[ERROR] /home/student/repos/primer/exercises/maven-project/src/main/java/edu/touro/mcon152/App.java:[9,24] cannot find symbol
+  symbol:   variable StringUtils
+  location: class edu.touro.mcon152.App
+[INFO] 3 errors 
+[INFO] -------------------------------------------------------------
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.486 s
+[INFO] Finished at: 2025-11-13T22:01:43Z
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.13.0:compile (default-compile) on project maven-demo: Compilation failure: Compilation failure: 
+[ERROR] /home/student/repos/primer/exercises/maven-project/src/main/java/edu/touro/mcon152/App.java:[3,32] package org.apache.commons.lang3 does not exist
+[ERROR] /home/student/repos/primer/exercises/maven-project/src/main/java/edu/touro/mcon152/App.java:[4,23] package com.google.gson does not exist
+[ERROR] /home/student/repos/primer/exercises/maven-project/src/main/java/edu/touro/mcon152/App.java:[9,24] cannot find symbol
+[ERROR]   symbol:   variable StringUtils
+[ERROR]   location: class edu.touro.mcon152.App
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< edu.touro.mcon152:maven-demo >--------------------
+[INFO] Building maven-demo 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- exec:3.1.0:java (default-cli) @ maven-demo ---
+[WARNING] 
+java.lang.ClassNotFoundException: edu.touro.mcon152.App
+    at org.codehaus.mojo.exec.URLClassLoaderBuilder$ExecJavaClassLoader.loadClass (URLClassLoaderBuilder.java:198)
+    at java.lang.ClassLoader.loadClass (ClassLoader.java:526)
+    at org.codehaus.mojo.exec.ExecJavaMojo$1.run (ExecJavaMojo.java:271)
+    at java.lang.Thread.run (Thread.java:1583)
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  0.276 s
+[INFO] Finished at: 2025-11-13T22:01:57Z
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.codehaus.mojo:exec-maven-plugin:3.1.0:java (default-cli) on project maven-demo: An exception occurred while executing the Java class. edu.touro.mcon152.App -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoExecutionException
